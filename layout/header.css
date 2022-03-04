@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  padding: 1rem;
+  font-size: 2rem;
+  line-height: 2;
+  color: #cecece;
+  background-color: #fff;
+  align-items: center;
+  flex-wrap: nowrap;
+}

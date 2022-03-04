@@ -1,0 +1,5 @@
+This folder holds all the CSS files from external libraries and
+frameworks like Bootstrap, Foundation, etc.
+
+Putting those aside in the same folder is a good way to say "Hey,
+this is not from me".

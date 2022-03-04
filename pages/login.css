@@ -1,0 +1,21 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  padding: 10rem 8rem;
+  box-shadow: -0.5rem 0rem 4rem 0.5rem rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.login-logo {
+  height: 5rem;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.login-logo svg {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  margin-left: 50%;
+  transform: translateX(-30%);
+}
